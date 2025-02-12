@@ -1,14 +1,28 @@
-# 👋 Hi, I’m [@aleenashasivari](https://github.com/aleenashasivari)
+![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
-Welcome to my GitHub profile! 😊 I'm passionate about learning and growing in the world of technology. Here's a little about me:
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)
+I'm  teenage girl I am looking forward to learn programing, on my free time I like to watch formua 1.<br/>
+<br/>
 
-- 👀 I’m interested in **architecture**, both digital and physical. I love exploring how design and technology can work together!
-- 🌱 I’m currently learning **HTML**, diving into the basics of web development.
-- 💞️ I’m looking to collaborate on **web development** projects, especially those involving design and user experience!
-- 📫 You can reach me via email at **aleena.shasivari@gmail.com** 
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love exploring new places and trying out new cuisines! 🌍🍣
+<br/>
+
+![Divider](https://vaxerski.xyz/github/repos1.gif)
+**Alea Furniture** [ f ] Alea Furniture: is an app for a home furniture <br/><br/>
+**Social Cards** [ f ] Social cards is a digita grate diary <br/><br/>
+**Study-Helper** [ uf ]  Study Helper is a app to help you study.<br/><br/>
+**e-Vaktia** [ f ] is one of my earliest projects, developed exclusively for the Ramazan 2020 period. Feel free to copy and modify the code. Moreover, if you update the data in data.json, it will work for subsequent years.<br/><br/>
+*Just to name a few...*<br/>
+
+*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
+
 
 ---
+![Divider](https://vaxerski.xyz/github/repos2.gif)
+Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
+---
 
-Feel free to check out my repositories and follow along as I learn more! 🚀
+### Tech Stack  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,python" alt="Tech Stack Icons" />
+</div>
